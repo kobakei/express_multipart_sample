@@ -1,5 +1,7 @@
 # Node.js multipart file upload sample with Express
-Author: Keisuke Kobayashi <k.kobayashi.122@gmail.com>
+
+Author: Keisuke Kobayashi \<k.kobayashi.122@gmail.com\>
+
 GitHub: https://github.com/kskkbys
 
 ## Dependencies
@@ -7,15 +9,20 @@ GitHub: https://github.com/kskkbys
 
 ## How to use
 Download this sample app:
+
 ```sh
 git clone git@github.com:kskkbys/express_multipart_sample.git
 ```
+
 and move the directory and install modules:
+
 ```sh
 cd express_multipart_sample
 npm install
 ```
+
 then run it!
+
 ```sh
 node app.js
 ```
