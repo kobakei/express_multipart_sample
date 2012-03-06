@@ -4,6 +4,9 @@ Author: Keisuke Kobayashi \<k.kobayashi.122@gmail.com\>
 
 GitHub: https://github.com/kskkbys
 
+## What is this?
+This is a sample application with **multipart file upload** of Node.js and Express.
+
 ## Dependencies
 - Express 2.5.5
 
